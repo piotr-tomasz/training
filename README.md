@@ -1,1 +1,1 @@
-# training
+# Repository contains training projects
